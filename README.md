@@ -2,6 +2,7 @@
 
 This is an implementation of Mobilenet-ssd model for object detection. In this project a pretrained caffe model is used. This project can be used for resource constraint devices such as mobiles, robots. 
 
+Dependencies: Opencv3
 
 Usage:
 
