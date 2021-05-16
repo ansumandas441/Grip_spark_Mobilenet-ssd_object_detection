@@ -27,4 +27,4 @@ For Live:
 
 Result:
 
-	![Output](https://user-images.githubusercontent.com/42487965/118390143-2c7b1b80-b64b-11eb-9846-1fae5f2a0134.jpg)
+![Output](https://user-images.githubusercontent.com/42487965/118390143-2c7b1b80-b64b-11eb-9846-1fae5f2a0134.jpg)
