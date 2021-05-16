@@ -24,3 +24,7 @@ Example:
 For Live:
 
 	python3 object_detection_video.py -p CAFFE_MODEL_PROTOTXT_PATH -m CAFFE_MODEL_PATH -C CONFIDENCE_CUTOFF
+
+Result:
+
+	python3 deep_learning_object_detection.py -i 000275.jpg -p MobileNetSSD_deploy.prototxt.txt -m MobileNetSSD_deploy.caffemodel -c 0.9
