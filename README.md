@@ -27,4 +27,4 @@ For Live:
 
 Result:
 
-	python3 deep_learning_object_detection.py -i 000275.jpg -p MobileNetSSD_deploy.prototxt.txt -m MobileNetSSD_deploy.caffemodel -c 0.9
+	![Output](https://user-images.githubusercontent.com/42487965/118390143-2c7b1b80-b64b-11eb-9846-1fae5f2a0134.jpg)
